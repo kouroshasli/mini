@@ -106,7 +106,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 - Email: [kouroshasli@proton.me](mailto:kouroshasli@proton.me)
-- LinkedIn: [Kourosh Asli](https://linkedin.com/in/kouroshasli)
+- telegram: [Kourosh Asli](https://t.me/kouroshasli)
 - GitHub: [kouroshasli](https://github.com/kouroshasli)
 
 ---
